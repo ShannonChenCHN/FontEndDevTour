@@ -12,7 +12,7 @@
 - ⭐️ Visual Studio Code
   - 常用插件
 - Chrome 浏览器
-  - ⭐️ 调试工具
+  - ⭐️ 调试工具 Chrome DevTools
 - ⭐️ **HTML**
 - ⭐️ **CSS**
 - ⭐️ **JavaScript 基础**
@@ -37,7 +37,7 @@
     - npm
     - yarn
   - 前端模块化
-  - 前端构建工具
+  - ⭐️ **前端构建工具**
   - 编译工具
   - 单元测试
   - 自动化测试
@@ -53,6 +53,13 @@
   - 其他
     - Mobx
     - saga
+- CSS 预处理和框架
+  - 预处理器：Sass
+  - CSS-in-JS和Tailwind CSS
+- ⭐️ **TypeScript**
+- 现代前端架构
+  - 单页应用（SPA）和多页应用（MPA）：了解何时使用SPA/MPA，了解服务端渲染（如Next.js或Nuxt.js）。
+	- API通信：掌握RESTful API、GraphQL，以及如何使用Fetch或Axios与API通信。
 - ⭐️ **移动端 web 开发**
   - HTML5
   - CSS3
@@ -62,7 +69,6 @@
 - 浏览器兼容问题
 
 ### 4.其他
-- ⭐️ TypeScript
 - W3C、TC39 表针
 - 浏览器内核、脚本引擎
 - SEO
@@ -71,15 +77,6 @@
 - React Native
 - 小程序
 - PWA
-
-
-### 5.厚积薄发
-- 数据结构
-- 算法
-- 操作系统和计算机网络
-- C 语言
-- 一门静态编程语言，比如 Java
-- 脚本语言，比如 Python
 
 
 ## 相关资源
