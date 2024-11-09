@@ -63,7 +63,7 @@
 - 浏览器兼容问题
 
 ### 4.其他
-- TypeScript
+- ⭐️ TypeScript
 - W3C、TC39 表针
 - 浏览器内核、脚本引擎
 - SEO
