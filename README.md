@@ -109,6 +109,10 @@
   - 《CSS设计指南》
   - 《CSS权威指南》
   - 《CSS3实用指南》
+ 
+### 书籍
+- [关于 JavaScript 的好书有哪些？](https://www.zhihu.com/question/19562698)
+- [如果有人让你推荐前端技术书，请让他看这个列表：jobbole/awesome-web-dev-books](https://github.com/jobbole/awesome-web-dev-books)
 
 ### 学习路线推荐
 - [零基础的前端开发初学者应如何系统地学习？](https://www.zhihu.com/question/19834302)
