@@ -86,9 +86,9 @@
 ## 相关资源
 
 ### 学习指南
-- [front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019)
 - [MDN](https://developer.mozilla.org/zh-CN/)
 - [w3school](http://www.w3school.com.cn)
+- [front-end-handbook-2024]([https://github.com/FrontendMasters/front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2024))
 
 ### 教程推荐
 - 前端开发
