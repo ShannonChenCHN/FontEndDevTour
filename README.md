@@ -14,9 +14,9 @@
   - 浏览器
   - 调试工具
   - 辅助工具
-- ⭐️ HTML
-- ⭐️ CSS
-- ⭐️ JavaScript 基础
+- ⭐️ **HTML**
+- ⭐️ **CSS**
+- ⭐️ **JavaScript 基础**
 - DOM
 - HTTP
 - 练习：写静态页面
@@ -48,13 +48,13 @@
   - jQuery
   - Bootstrap
   - 三大框架
-    - ⭐️React
+    - ⭐️ **React**
     - [Vue](https://github.com/ShannonChenCHN/AFrontEndWebDevTour/tree/master/vuejs)
     - Angular
   - 其他
     - Mobx
     - saga
-- ⭐️移动端 web 开发
+- ⭐️ **移动端 web 开发**
   - HTML5
   - CSS3
   - canvas
