@@ -24,7 +24,6 @@
 - [Use React with React-powered frameworks](https://react.dev/learn/start-a-new-react-project#which-features-make-up-the-react-teams-full-stack-architecture-vision): Next.js, Remix, Gatsby, Expo, Next.js(App Router)
 - [Editor Setup](https://react.dev/learn/editor-setup): VS Code
 - [Using TypeScript with React](https://react.dev/learn/typescript#typescript-with-react-components)
-  - []()
   - [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
   - [TypeScript Playground](https://www.typescriptlang.org/play)
   - [@types/react](https://www.npmjs.com/package/@types/react)
