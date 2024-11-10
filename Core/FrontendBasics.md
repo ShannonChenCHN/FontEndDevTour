@@ -1,5 +1,16 @@
 # Frontend Basics
 
+- HTML
+  - HTML5
+- CSS
+  - CSS3
+- JavaScript
+  - ES6
+- Node.js
+  - package.json
+  - package-lock.json
+  - node_modules
+
 ## 学习资料：
 ### 文字教程
 - [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/): The essential skillset for new front-end developers
