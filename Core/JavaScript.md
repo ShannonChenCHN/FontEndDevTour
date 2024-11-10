@@ -111,7 +111,8 @@
 
 ## 相关资源
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)（复习/回顾用）
-- 前端 JavaScript 教程
+- https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
+- W3School JavaScript 教程
   - [JavaScript 基础教程 - W3School](http://www.w3school.com.cn/js/index.asp)
   - [ECMAScript 教程 - W3School](http://www.w3school.com.cn/js/index_pro.asp)
   - [JavaScript 对象参考手册 - W3School](http://www.w3school.com.cn/jsref/index.asp)
