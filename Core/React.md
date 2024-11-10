@@ -7,3 +7,4 @@
 - JSX
 - State vs. props
 - hooks
+- use React with React-powered frameworks
