@@ -120,6 +120,7 @@
   - [HTML DOM 对象参考手册 - W3School](http://www.w3school.com.cn/jsref/index.asp)
 - [JavaScript 教程 - 阮一峰](https://wangdoc.com/javascript/index.html)
 - [JavaScript教程- 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+- ES6 入门教程 https://es6.ruanyifeng.com/
 - [Node.js](https://github.com/ShannonChenCHN/AFrontEndWebDevTour/issues/47)
 - [JS 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)（[英文原版](https://github.com/MostlyAdequate/mostly-adequate-guide)）
 
