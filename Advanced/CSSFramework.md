@@ -1,4 +1,4 @@
-# CSSPreprocessor Framework
+# CSSPreprocessor Frameworks
 
 - Bootstrap
 - ⭐Tailwind
