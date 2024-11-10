@@ -1,6 +1,6 @@
-# cSSPreprocessor Framework
+# CSSPreprocessor Framework
 
 - Bootstrap
-- Tailwind
+- ⭐Tailwind
 - Foundation
 - Skeleton
