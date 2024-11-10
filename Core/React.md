@@ -16,8 +16,8 @@
   - [State: A Component's Memory](https://react.dev/learn/state-a-components-memory)
 - React Hooks
   - [Built-in React Hooks](https://react.dev/reference/react/hooks)
-- [Use React with React-powered frameworks](https://react.dev/learn/start-a-new-react-project#which-features-make-up-the-react-teams-full-stack-architecture-vision)
-- [Editor Setup](https://react.dev/learn/editor-setup)
+- [Use React with React-powered frameworks](https://react.dev/learn/start-a-new-react-project#which-features-make-up-the-react-teams-full-stack-architecture-vision): Next.js, Remix, Gatsby, Expo, Next.js(App Router)
+- [Editor Setup](https://react.dev/learn/editor-setup):VS Code
 - [Using TypeScript with React](https://react.dev/learn/typescript#typescript-with-react-components)
 - [React Developer Tools](https://react.dev/learn/react-developer-tools)
 - [createRoot](https://react.dev/reference/react-dom/client/createRoot#rendering-a-page-partially-built-with-react)
