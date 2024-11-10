@@ -32,8 +32,12 @@
 - [React Developer Tools](https://react.dev/learn/react-developer-tools)
 - [createRoot](https://react.dev/reference/react-dom/client/createRoot#rendering-a-page-partially-built-with-react)
   - [Add React to an Existing Project: Render React components anywhere on the page](https://react.dev/learn/add-react-to-an-existing-project#step-2-render-react-components-anywhere-on-the-page)
-- Reducer
+- Reducer & Context
+  - [Using TypeScript: useReducer](https://react.dev/learn/typescript#typing-usereducer)
+  - [Using TypeScript: useContext](https://react.dev/learn/typescript#typing-usecontext)
   - [Extracting State Logic into a Reducer](https://react.dev/learn/extracting-state-logic-into-a-reducer)
+  - [Passing Data Deeply with Context](https://react.dev/learn/passing-data-deeply-with-context)
+  - [Scaling Up with Reducer and Context](https://react.dev/learn/scaling-up-with-reducer-and-context)
 
 ### [API Reference](https://react.dev/reference/react)
 
