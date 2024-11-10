@@ -5,6 +5,10 @@
  
 ## [React 官方文档](https://react.dev/)
 
+- Quick Start
+  - [Quick Start](https://react.dev/learn)
+  - [Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)
+  - [Thinking in React](https://react.dev/learn/thinking-in-react)
 - React Components
   - [Your First Component](https://react.dev/learn/your-first-component)
   - [Importing and Exporting Components](https://react.dev/learn/importing-and-exporting-components)
