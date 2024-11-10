@@ -10,6 +10,7 @@
   - package.json
   - package-lock.json
   - node_modules
+  - 常用命令：`npm install`、`npm run dev`
 
 ## 学习资料：
 ### 文字教程
