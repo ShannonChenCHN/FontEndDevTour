@@ -6,7 +6,7 @@
   - CSS3
 - JavaScript
   - ES6
-- NPM
+- npm
   - package.json
   - package-lock.json
   - node_modules
