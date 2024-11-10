@@ -39,6 +39,8 @@
   - [Scaling Up with Reducer and Context](https://react.dev/learn/scaling-up-with-reducer-and-context)
 - React Route
 - React Redux
+- react-dom
+- react-scripts
 
 ### [API Reference](https://react.dev/reference/react)
 
