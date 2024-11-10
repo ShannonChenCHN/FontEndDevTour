@@ -5,6 +5,7 @@
 
 - React Components
 - JSX
+  - [Writing Markup with JSX](https://react.dev/learn/writing-markup-with-jsx)
 - Props vs State
   - [Thinking in React: Props vs State](https://react.dev/learn/thinking-in-react#step-3-find-the-minimal-but-complete-representation-of-ui-state)
   - [Passing Props to a Component](https://react.dev/learn/passing-props-to-a-component)
