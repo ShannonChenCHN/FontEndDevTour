@@ -5,6 +5,7 @@
  
 ## [React 官方文档](https://react.dev/)
 
+### [Learn React](https://react.dev/learn)
 - Quick Start
   - [Quick Start](https://react.dev/learn)
   - [Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)
