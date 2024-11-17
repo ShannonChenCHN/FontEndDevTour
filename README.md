@@ -93,6 +93,7 @@
 - [front-end-handbook-2024](https://github.com/FrontendMasters/front-end-handbook-2024)
 - [freeCodeCamp](https://www.freecodecamp.org/)（免费的互动练习和项目）
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Front-end Development Roadmap | Code with Mosh](https://resources.codewithmosh.com/front-end-development-roadmap/)
 
 ### 教程推荐
 - 前端开发
